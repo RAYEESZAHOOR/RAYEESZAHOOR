@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.<br>  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.<br>  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  Java, Spring Boot, Scrum, Google Cloud Platform.**<br>  - ⚡ 
+- 🔭 I’m currently working on Generative AI.<br>  - 🌱 I’m currently learning; Generative AI, ReactNative.<br>  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  Java, Spring Boot, Scrum, Google Cloud Platform.**<br>  - ⚡ 
 
 
 ## 🌐 Socials:
