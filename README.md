@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Generative AI.<br>  - 🌱 I’m currently learning; Generative AI, ReactNative.<br>  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  Java, Spring Boot, Scrum, Google Cloud Platform.**<br>  - ⚡ 
+- 🔭 I’m currently working on Generative AI.<br>  - 🌱 I’m currently learning; Generative AI, .<br>  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  Java, Spring Boot, Scrum, Google Cloud Platform, Azure DevOps, AWS.**<br>  - ⚡ 
 
 
 ## 🌐 Socials:
