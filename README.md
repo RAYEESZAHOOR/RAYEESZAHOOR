@@ -1,24 +1,114 @@
-# 💫 About Me:
-- 🔭 I’m currently working on Generative AI.<br>  - 🌱 I’m currently learning; Generative AI, .<br>  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  Java, Spring Boot, Scrum, Google Cloud Platform, Azure DevOps, AWS.**<br>  - ⚡ 
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Raeees</h1>
+<h3 align="center">Quality Assurance Engineer | Mobile App Testing | Functional & System Validation</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayeeszahoor/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RAYEESZAHOOR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RAYEESZAHOOR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAYEESZAHOOR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RAYEESZAHOOR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Quality+Assurance+Expert;Mobile+Application+QA+Engineer;Automation+Enthusiast;UI%2FUX+Validation+Specialist;Bug+Hunter+%F0%9F%90%9E;Quality+Driven+Professional" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RAYEESZAHOOR&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛡️ About Me
+
+I am a **Quality Assurance Expert** with hands-on experience in mobile application testing, automation foundations, and system-level validation.
+
+I specialize in:
+
+- Android APK Testing  
+- Design Validation (Figma vs Live App)  
+- WebSocket & Real-Time Event Validation  
+- Automation Testing (Cypress, Appium)  
+- Structured Defect Lifecycle Management  
+- Functional, Regression & Exploratory Testing  
+
+My goal is to ensure every product release is stable, reliable, and user-focused.
+
+---
+
+## 🧠 Core QA Competencies
+
+✔ Requirement Analysis & Risk Assessment  
+✔ Test Strategy & Scenario Design  
+✔ Functional & End-to-End Testing  
+✔ Automation Testing Fundamentals  
+✔ UI/UX Validation  
+✔ Regression & Release Validation  
+✔ Defect Lifecycle Management  
+✔ Real-time Event (WebSocket) Testing  
+
+---
+
+# 🛠️ Tools, Technologies & Languages
+
+## 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Testing-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
+
+---
+
+## 🤖 Automation & Testing Tools
+
+![Cypress](https://img.shields.io/badge/Cypress-Automation-17202C?style=for-the-badge&logo=cypress)
+![Appium](https://img.shields.io/badge/Appium-Mobile%20Automation-662D91?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-red?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory-Testing-yellow?style=for-the-badge)
+![Bug Tracking](https://img.shields.io/badge/Bug-Tracking-critical?style=for-the-badge)
+
+---
+
+## 📱 Mobile & Platform Tools
+
+![Android](https://img.shields.io/badge/Android-Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![APK Testing](https://img.shields.io/badge/APK-Build%20Validation-blue?style=for-the-badge)
+![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-Testing-0078D6?style=for-the-badge&logo=windows)
+
+---
+
+## 🎨 UI & Design Validation
+
+![Figma](https://img.shields.io/badge/Figma-Design%20Validation-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI Testing](https://img.shields.io/badge/UI%20%2F%20UX-Validation-9cf?style=for-the-badge)
+
+---
+
+## 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Automation Testing (Cypress & Appium)  
+- Advanced API Testing  
+- Expanding Python for Test Automation  
+- Database validation strategies  
+
+---
+
+## 🏆 QA Philosophy
+
+> “Quality Assurance is not about testing software — it is about engineering confidence in every release.”
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/rayeeszahoor/)
+- 📧 Email: rayeeszahoorit@gmail.com
+
